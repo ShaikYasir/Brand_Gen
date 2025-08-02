@@ -3,6 +3,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28.1-red)](https://streamlit.io/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-DALL--E-green)](https://openai.com/dall-e-2/)
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/651fb79c-cd0d-4b55-a989-cc313ab51ba7" />
 
 ## 🚀 Project Overview
 
@@ -27,25 +28,7 @@ BrandGen is an intelligent automated image generator designed for creating perso
 - **Image Processing**: Pillow (PIL)
 - **Configuration**: python-dotenv
 
-## 📁 Project Structure
-
-```
-BrandGen-PRO/
-├── src/
-│   ├── __init__.py
-│   ├── data_processor.py      # Data analysis and customer segmentation
-│   ├── image_generator.py     # DALL-E API integration
-│   ├── campaign_manager.py    # Campaign creation and management
-│   └── utils.py              # Utility functions
-├── data/
-│   ├── sample_customers.csv   # Sample customer data
-│   └── campaign_templates.json # Pre-defined campaign templates
-├── generated_images/          # Output directory for AI-generated images
-├── config/
-│   └── settings.py           # Configuration settings
-├── streamlit_app.py          # Main Streamlit dashboard
-├── requirements.txt          # Python dependencies
-└── README.md                # Project documentation
+\
 ```
 
 ## 🚀 Quick Start
@@ -85,10 +68,6 @@ streamlit run streamlit_app.py
 
 ## 🔧 Configuration
 
-### API Keys
-
-- Obtain an OpenAI API key from [OpenAI Platform](https://platform.openai.com/)
-- Add your API key to the `.env` file
 
 ### Custom Settings
 
@@ -112,25 +91,10 @@ customer_id,name,age,gender,location,interests,purchase_history
 
 Pre-defined templates in `data/campaign_templates.json` for different industries and campaign types.
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🆘 Support
-
-If you encounter any issues or have questions:
-
-1. Check the documentation
-2. Open an issue on GitHub
-3. Contact the development team
 
 ## 🚀 Future Enhancements
 
@@ -141,6 +105,5 @@ If you encounter any issues or have questions:
 - [ ] Power BI integration for advanced analytics
 - [ ] Real-time campaign monitoring
 
----
+-
 
-**Happy Marketing! 🎯**
