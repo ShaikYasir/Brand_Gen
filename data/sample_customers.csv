@@ -1,0 +1,21 @@
+customer_id,name,age,gender,location,interests,annual_income,purchase_history,customer_since,total_spent
+1,John Smith,28,Male,New York,Technology,75000,Electronics,2022-01-15,2340
+2,Emma Johnson,34,Female,California,Fashion,85000,Clothing,2021-08-22,3120
+3,Michael Brown,45,Male,Texas,Sports,95000,Sports,2020-11-10,1890
+4,Sarah Davis,29,Female,Florida,Travel,68000,Travel,2022-03-08,2750
+5,James Wilson,52,Male,Illinois,Food,110000,Gourmet,2020-05-14,4230
+6,Lisa Anderson,31,Female,Pennsylvania,Art,72000,Art Supplies,2021-12-01,1650
+7,David Martinez,38,Male,Ohio,Music,88000,Music Equipment,2021-07-19,2980
+8,Jennifer Taylor,26,Female,New York,Beauty,62000,Cosmetics,2022-06-05,2100
+9,Robert Thomas,41,Male,California,Technology,105000,Electronics,2020-09-12,3850
+10,Maria Garcia,33,Female,Texas,Fashion,78000,Clothing,2021-04-28,2420
+11,Christopher Lee,29,Male,Florida,Fitness,71000,Sports,2022-02-14,1980
+12,Amanda White,37,Female,Illinois,Home,83000,Home Decor,2020-12-20,3200
+13,Daniel Harris,44,Male,Pennsylvania,Automotive,92000,Auto Parts,2021-01-10,2760
+14,Jessica Clark,30,Female,Ohio,Books,65000,Books,2021-11-15,1540
+15,Matthew Lewis,35,Male,New York,Technology,87000,Electronics,2020-08-07,3450
+16,Ashley Walker,28,Female,California,Health,74000,Supplements,2022-04-12,2190
+17,Andrew Hall,42,Male,Texas,Outdoor,96000,Outdoor Gear,2020-10-30,3890
+18,Nicole Allen,31,Female,Florida,Fashion,69000,Clothing,2021-09-25,2310
+19,Joshua Young,39,Male,Illinois,Sports,89000,Sports,2021-03-17,2680
+20,Samantha King,27,Female,Pennsylvania,Travel,64000,Travel,2022-01-08,1920
